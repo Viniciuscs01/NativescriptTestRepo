@@ -1,0 +1,9 @@
+<Page loaded="loaded" actionBarHidden="true">
+	<StackLayout orientation="vertical">
+		 <Label text=" " />
+		<Image src="res://class1" stretch="none" cssClass="logoImg" horizontalAlignment="center" />
+		<TextField id="username" cssClass="text-input" text="{{ name }}" hint="E-mail" />
+		<TextField id="password" secure="true" cssClass="text-input" hint="Password" text="{{ password }}"/>
+		<Button text="Sign In" tap="SignIn" horizontalAlignment="right" />
+	</StackLayout>
+</Page>

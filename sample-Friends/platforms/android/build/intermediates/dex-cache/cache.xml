@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/classes-6d5ea7ff10044c6372673703612184fb501d33c3.jar" />
+    </item>
+    <item
+        jar="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/classes-380cd71075acaa3f6f98d3f9d6376282b12ac535.jar" />
+    </item>
+    <item
+        jar="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-8967d9500cc803e847968686462f97dadc91e9c4.jar" />
+    </item>
+    <item
+        jar="/home/viniciuscs/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-d2dedf9c961ee7400b404d4f31330c2c3994a08b.jar" />
+    </item>
+    <item
+        jar="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/widgets-b0abeef5b0d32384dd58190944969772bf2b64e5.jar" />
+    </item>
+    <item
+        jar="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40373005d4576f2e18027bcb2460ba577ae3d4ea">
+        <dex dex="/home/viniciuscs/Documents/ns/sample-Friends/platforms/android/build/intermediates/pre-dexed/debug/nativescript-7aca41040510068fab6ca5ccdd33a2552eb92e22.jar" />
+    </item>
+
+</items>

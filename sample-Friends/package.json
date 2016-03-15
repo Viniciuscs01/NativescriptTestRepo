@@ -1,0 +1,14 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.sampleFriends",
+		"tns-android": {
+			"version": "1.4.0"
+		},
+		"tns-ios": {
+			"version": "1.4.0"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "1.4.0"
+	}
+}

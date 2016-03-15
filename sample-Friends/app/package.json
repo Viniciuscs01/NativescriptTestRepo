@@ -1,0 +1,26 @@
+{
+	"name": "sample-Friends",
+	"main": "app.js",
+	"version": "1.2.1",
+	"author": "Telerik <support@telerik.com>",
+	"description": "Friends Sample App for NativeScript",
+	"license": "BSD",
+	"keywords": [
+		"telerik",
+		"platform",
+		"mobile",
+		"nativescript",
+		"{N}",
+		"tns",
+		"appbuilder",
+		"template"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:NativeScript/sample-Friends.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nativescript/sample-Friends/issues"
+	},
+	"homepage": "https://github.com/nativescript/sample-Friends"
+}
